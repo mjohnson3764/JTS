@@ -46,7 +46,7 @@ h2.resp-accordion {
 
 .resp-tab-active {
     /* border: 1px solid #c1c1c1; */
-    border-bottom: 4px solid #E91515;
+    border-bottom: 4px solid #204E82;
   margin-bottom: -1px !important;
   /*padding: 12px 14px 14px 14px !important;*/
   position:relative;
@@ -56,7 +56,7 @@ h2.resp-accordion {
     position: absolute;
     width: 0;
     height: 0;
-    border-top: 10px solid #E91515;
+    border-top: 10px solid #204E82;
     border-left: 10px solid rgba(69, 42, 21, 0);
     border-right: 10px solid rgba(199, 57, 57, 0);
     left: 45%;
@@ -70,14 +70,14 @@ h2.resp-accordion {
 
 .resp-tab-active {
   /*border-bottom: none;*/
-  background-color: rgba(14, 238, 66, 0.13);
+  background-color: rgba(32, 78, 130, 0.13);
 }
 
 .resp-content-active,
 .resp-accordion-active { display: block; }
 
 .resp-tab-content {
-    /* border: 1px solid #E91515; */
+    /* border: 1px solid #204E82; */
     border-top: transparent;
     min-height: 405px;
 }
