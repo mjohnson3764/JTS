@@ -841,7 +841,7 @@ a.head-contact-page {
 /*-- //faq --*/
 /*-- services-tabs --*/
 .tab2 ,.tab4{
-    text-align: center;
+    text-align: left;
 }
 .tab2 h5, .tab4 h5 {
     color: #080808;
@@ -877,6 +877,42 @@ a.head-contact-page {
 }
 .services-img-agileits{
 	background: url(../images/services2.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-parts{
+	background: url(../images/tab_parts.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-repair{
+	background: url(../images/tab_repair.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-overhaul{
+	background: url(../images/tab_overhaul.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-field{
+	background: url(../images/tab_field.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -2837,7 +2873,7 @@ i.glyphicon.glyphicon-calendar {
 	.resp-tab-content {
 		min-height: 377px;
 	}
-	.services-img-w3-agile ,.services-img-agileits{
+	.services-img-w3-agile,.services-img-agileits, .services-img-tab-parts, .services-img-tab-repair, .services-img-tab-overhaul, .services-img-tab-field{
 		min-height: 347px;
 	}
 	.ab-head h5 {
@@ -3936,7 +3972,7 @@ i.glyphicon.glyphicon-calendar {
 	a.read-w3ls {
 		font-size: 12px;
 	}
-	.services-img-w3-agile,.services-img-agileits {
+	.services-img-w3-agile,.services-img-agileits, .services-img-tab-parts, .services-img-tab-repair, .services-img-tab-overhaul, .services-img-tab-field {
 		min-height: 231px;
 	}
 	.social-agileits-w3layouts {
@@ -4045,7 +4081,7 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 18px;
 	}
-	.services-img-w3-agile, .services-img-agileits {
+	.services-img-w3-agile,.services-img-agileits, .services-img-tab-parts, .services-img-tab-repair, .services-img-tab-overhaul, .services-img-tab-field {
 		min-height: 201px;
 	}
 	.resp-tab-content {
@@ -4297,7 +4333,7 @@ i.glyphicon.glyphicon-calendar {
 	.resp-tab-content {
 		padding: 15px 0 15px;
 	}
-	.services-img-w3-agile, .services-img-agileits {
+	.services-img-w3-agile,.services-img-agileits, .services-img-tab-parts, .services-img-tab-repair, .services-img-tab-overhaul, .services-img-tab-field {
 		min-height: 165px;
 	}
 	.resp-tab-content {
