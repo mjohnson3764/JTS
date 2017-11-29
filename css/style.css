@@ -213,7 +213,7 @@ section {
 }
 /*-- //header --*/
 .banner {
-    background: url(../images/bg_1_20.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1_30.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -447,7 +447,7 @@ font-weight:600;
 }
 .slider-info h3 {
     font-size: 1.5em;
-    color: #fff;
+    color: #C4C4C4;
     letter-spacing: 6px;
     line-height: 28px;
     font-weight: 700;
@@ -455,7 +455,7 @@ font-weight:600;
 }
 .slider-info p {
     font-size: 15px;
-    color: #C4C4C4;
+    color: #fff;
     letter-spacing: 2px;
 	word-spacing: 2px;
     font-weight: normal;
