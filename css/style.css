@@ -121,7 +121,7 @@ header {
 	padding:0 0 12px;	
 }
 .ayanHoverEffect_7 a::after {
-  background-color: #2e9fff;
+  background-color: #204E82;
   content: "";
   height: 3px;
   width: 100%;
@@ -621,6 +621,12 @@ h5.head{
 	color:#fff;
 }
 p.head-w3-agileits {
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+p.head-w3-agileits-black {
     text-align: center;
     font-size: 17px;
     letter-spacing: 1px;
@@ -2808,6 +2814,9 @@ i.glyphicon.glyphicon-calendar {
 	p.head-w3-agileits {
 		font-size: 14px;
 	}
+	p.head-w3-agileits-black {
+		font-size: 14px;
+	}	
 	p.head-contact-page {
 		font-size: 14px;
 	}
@@ -3661,6 +3670,9 @@ i.glyphicon.glyphicon-calendar {
 	p.head-w3-agileits {
 		font-size: 13px;
 	}
+	p.head-w3-agileits-black {
+		font-size: 13px;
+	}
 	p.head-contact-page {
 		font-size: 13px;
 	}
@@ -3762,6 +3774,9 @@ i.glyphicon.glyphicon-calendar {
 		min-height: 310px;
 	}
 	p.head-w3-agileits {
+		line-height: 25px;
+	}
+	p.head-w3-agileits-black {
 		line-height: 25px;
 	}
 	p.head-contact-page {
@@ -4297,6 +4312,9 @@ i.glyphicon.glyphicon-calendar {
 		padding-bottom: 65px!important;
 	}
 	.head-w3-agileits {
+		font-size: 12.5px;
+	}
+	.head-w3-agileits-black {
 		font-size: 12.5px;
 	}
 	.head-contact-page {
