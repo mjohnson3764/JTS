@@ -447,7 +447,7 @@ font-weight:600;
 }
 .slider-info h3 {
     font-size: 1.5em;
-    color: #C4C4C4;
+    color: #fff;
     letter-spacing: 6px;
     line-height: 28px;
     font-weight: 700;
@@ -455,7 +455,7 @@ font-weight:600;
 }
 .slider-info p {
     font-size: 15px;
-    color: #fff;
+    color: #C4C4C4;
     letter-spacing: 2px;
 	word-spacing: 2px;
     font-weight: normal;
@@ -557,7 +557,7 @@ a.read-w3ls {
     text-decoration: none;
     color: #fff;
     padding: 10px 46px 10px 25px;
-    background: #000000;
+    background: #C4C4C4;
 	margin-top: 1.5em;
 	 transition: 0.5s all;
     -webkit-transition: 0.5s all;
