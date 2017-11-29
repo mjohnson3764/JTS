@@ -816,7 +816,7 @@ a.head-contact-page {
     border-bottom: 1px solid #204E82;
 }
 .faq li a:hover, .faq li a.active {
-    color: #000;
+    color: #fff;
     background: #204E82;
 }
 .faq span.glyphicon {
@@ -864,7 +864,7 @@ a.head-contact-page {
     color: rgba(188, 0, 35, 0.72);
 }
 .tab2 p,.tab4 p {
-    color: #3FFF00;
+    color: #000;
     font-size: 16px;
     line-height: 45px;
     width: 65%;
@@ -1407,7 +1407,7 @@ img.img-r {
 }
 .agileits_services_grid_left p {
     margin: 1em 0 1em;
-    color: #3FFF00;
+    color: #000;
     line-height: 30px;
     letter-spacing: .5px;
     font-size: 16px;
