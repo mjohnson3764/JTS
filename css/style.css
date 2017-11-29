@@ -831,6 +831,7 @@ a.head-contact-page {
 	-moz-transform: rotatex(180deg);
 	-o-transform: rotatex(180deg);
 	-ms-transform: rotatex(180deg);
+	color:#fff;
 }
 .faq li ul {
     width: 100%;
@@ -861,7 +862,7 @@ a.head-contact-page {
     margin: 0 auto;
     line-height: 28px;
     letter-spacing: .5px;
-    color: rgba(188, 0, 35, 0.72);
+    color: #204E82;
 }
 .tab2 p,.tab4 p {
     color: #000;
