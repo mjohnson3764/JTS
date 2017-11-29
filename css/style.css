@@ -54,6 +54,9 @@ label{
     margin-top: 2px;
     font-weight: bold;
 }
+.w3-logo span.logo {
+    width: "33%";
+}
 .navbar {
 	margin-bottom: 0;
 }
