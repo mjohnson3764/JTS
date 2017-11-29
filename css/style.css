@@ -8,7 +8,7 @@ html, body{
 	margin:0;
 	font-size: 100%;
 	font-family: 'Montserrat', sans-serif;
-	background: #fff;
+	background: #525050;
 }
 body a {
 	text-decoration:none;
@@ -668,7 +668,7 @@ a.head-contact-page {
 }
 .ab-head p{
 	font-size: 0.9em;
-    color: #FFB100;
+    color: #525050;
     line-height: 2em;
     margin: 0.5em 0;
 }
@@ -810,14 +810,14 @@ a.head-contact-page {
     width: 100%;
     display: block;
     position: relative;
-    color: #FFB100;
+    color: #525050;
     font-size: 1.1em;
     text-decoration: none;
     border-bottom: 1px solid #204E82;
 }
 .faq li a:hover, .faq li a.active {
     color: #000;
-    background: #e1f3fb;
+    background: #204E82;
 }
 .faq span.glyphicon {
     margin-right: .5em;
@@ -944,7 +944,7 @@ a.head-contact-page {
 .work-row-grids p {
     font-size: 15px;
     text-align: left;
-    color: #FFB100;
+    color: #525050;
     line-height: 1.5em;
     margin: 0 auto;
 }
@@ -1266,7 +1266,7 @@ p.number-w3 {
 /*-- agile_testimonials --*/
 .test-grid p{
 	font-size:0.9em;
-	color:#FFB100;
+	color:#525050;
 	line-height:2em;
 	margin-bottom: 1em;
 }
@@ -1359,7 +1359,7 @@ img.img-r {
 /*--//flexisel--*/
 
 .flex-info{
-	background:#2baae6;
+	background:#204E82;
 	padding:1em;
 }
 .flex-info1{
@@ -1695,7 +1695,7 @@ h2.typoh2{
     color: #282a2b;
 }
 .icons a {
-    color: #FFB100;
+    color: #525050;
 }
 .bs-glyphicons .glyphicon-class {
     display: block;
@@ -2076,12 +2076,12 @@ textarea {
 	-ms-transition:0.5s all;
 }
 .w3ls_footer_grid_leftr p{
-	color:#FFB100;
+	color:#525050;
 	line-height:1.5em;
 	font-size:16px;
 }
 .w3ls_footer_grid_leftr a{
-	color:#FFB100;
+	color:#525050;
 	text-decoration:none;
 	font-size:14px;
 }
@@ -2198,7 +2198,7 @@ textarea {
 	color:#464646;
 }
 .w3ls_single_left_grid_right ul li a{
-	color:#FFB100;
+	color:#525050;
 	text-decoration:none;
 }
 .w3ls_single_left_grid_right ul li a:hover{
@@ -2209,7 +2209,7 @@ textarea {
 }
 .w3ls_single_left_grid1 p{
 	margin:2em 0;
-	color:#FFB100;
+	color:#525050;
 	line-height:2em;
 }
 .w3ls_single_left_grid1 p span{
@@ -2368,7 +2368,7 @@ textarea {
 .wthree_recent ul li {
     list-style-type: none;
     font-size: 14px;
-    color: #FFB100;
+    color: #525050;
     padding: 1em 0;
     border-right: 3px solid #204E82;
     text-transform: capitalize;
@@ -2377,7 +2377,7 @@ textarea {
     padding-right: 20px;
 }
 .wthree_recent ul li a{
-    color: #FFB100;
+    color: #525050;
     text-decoration: none;
     transition: .5s ease-in;
     -webkit-transition: .5s ease-in;
@@ -2433,7 +2433,7 @@ i.glyphicon.glyphicon-calendar {
 	margin-bottom:.5em;
 }
 .agile_cat_grid ul.categories li a {
-    color: #FFB100;
+    color: #525050;
     border: 1px dotted #adadad;
     padding: .5em 1em;
     text-decoration: none;
@@ -2454,7 +2454,7 @@ i.glyphicon.glyphicon-calendar {
     /* border: 1px dotted #adadad; */
     background: rgba(32, 78, 130, 0.18);
     text-decoration: none;
-    color: #FFB100;
+    color: #525050;
     display: block;
 }
 .agileits_three_comment_grid{
@@ -2493,7 +2493,7 @@ i.glyphicon.glyphicon-calendar {
 	background:#204E82;
 }
 .agileits_tom_right p.lorem {
-    color: #FFB100;
+    color: #525050;
     line-height: 2em;
     margin: 1.5em 0 0;
 }
