@@ -153,7 +153,7 @@ header {
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
     color: #ffffff;
-    background-color: transparent;
+    background-color: #000;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #204E82!important;
@@ -1201,7 +1201,7 @@ p.number-w3 {
 /*--//contact--*/
 /*-- about-inner --*/
 .about-banner-w3ls {
-    background: url(../images/bg_1_m.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1_top.jpg)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
