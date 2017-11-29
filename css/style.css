@@ -210,7 +210,7 @@ section {
 }
 /*-- //header --*/
 .banner {
-    background: url(../images/bg4.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1201,7 +1201,7 @@ p.number-w3 {
 /*--//contact--*/
 /*-- about-inner --*/
 .about-banner-w3ls {
-    background: url(../images/bg-inner.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1_m.jpg)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
