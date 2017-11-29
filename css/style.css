@@ -662,7 +662,7 @@ a.head-contact-page {
 	font-size: 1em;
     text-transform: uppercase;
     line-height: 1.7em;
-    color: #204E82;
+    color: #3B74B4;
     font-weight: 900;
 	letter-spacing:.5px;
 }
@@ -675,12 +675,12 @@ a.head-contact-page {
 .ab-head ul li{
 	display: block;
     font-size: 0.9em;
-    color: #204E82;
+    color: #3B74B4;
     line-height: 2.3em;
     list-style: none;
 }
 .ab-head ul li i{
-	color:#204E82;
+	color:#3B74B4;
     margin-right: 2%;
 }
 
@@ -1144,7 +1144,7 @@ a.head-contact-page {
 p.work-w3 {
     font-size: 14px;
     font-weight: bold;
-    color: #204E82;
+    color: #3B74B4;
 	letter-spacing: .5px;
 }
 p.number-w3 {
@@ -1154,7 +1154,7 @@ p.number-w3 {
 }
 .right-contact-w3ls span {
     display: inline-block;
-    color: #204E82;
+    color: #3B74B4;
     font-size: 14px;
 	margin-right:7px;
 }
@@ -1179,7 +1179,7 @@ p.number-w3 {
 }
 .right-contact-w3ls a:hover {
 	text-decoration: none;
-    color: #204E82;
+    color: #3B74B4;
 	 transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -2093,7 +2093,7 @@ textarea {
 	font-size:14px;
 }
 .w3ls_footer_grid_leftr a:hover{
-	color:#204E82;
+	color:#3B74B4;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -2117,7 +2117,7 @@ textarea {
 	-ms-transition:0.5s all;
 }
 .w3ls_footer_grid_left:hover .w3ls_footer_grid_leftr h4{
-	color:#204E82;
+	color:#3B74B4;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
