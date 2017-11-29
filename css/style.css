@@ -145,8 +145,8 @@ header {
 }
 .navbar-default .navbar-nav > li > a {
     font-size: 16px!important;
-    color: #000!important;
-    background: #fff;
+    color: #525050!important;
+    background: transparent;
     padding-bottom: 10px;
     font-weight: 600;
 }
@@ -213,7 +213,7 @@ section {
 }
 /*-- //header --*/
 .banner {
-    background: url(../images/bg_1.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1_30.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
