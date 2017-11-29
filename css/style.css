@@ -49,14 +49,17 @@ label{
     line-height: 5px;
 	position:relative;
 	z-index: 999;
-	width: 15%;
+	width: 25%;
 }
 .w3-logo h1 {
     margin-top: 2px;
     font-weight: bold;
 }
 .w3-logo span.logo {
-    width: 15%;
+    width: 25%;
+}
+img.w3-logo span.logo {
+    width: 100%;
 }
 .navbar {
 	margin-bottom: 0;
