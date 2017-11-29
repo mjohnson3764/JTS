@@ -213,7 +213,7 @@ section {
 }
 /*-- //header --*/
 .banner {
-    background: url(../images/bg_1_40.jpg)no-repeat 0px 0px;
+    background: url(../images/bg_1_50.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -455,7 +455,7 @@ font-weight:600;
 }
 .slider-info p {
     font-size: 15px;
-    color: #fff;
+    color: #C4C4C4;
     letter-spacing: 2px;
 	word-spacing: 2px;
     font-weight: normal;
