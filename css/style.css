@@ -146,7 +146,7 @@ header {
 .navbar-default .navbar-nav > li > a {
     font-size: 16px!important;
     color: #fff!important;
-    background: transparent;
+    background: #000;
     padding-bottom: 10px;
     font-weight: 600;
 }
@@ -155,8 +155,8 @@ header {
     margin: 0 12px;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-    color: #000;
-    background-color: #09FF00;
+    color: #ffffff;
+    background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #204E82!important;
