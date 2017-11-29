@@ -864,7 +864,7 @@ a.head-contact-page {
     color: rgba(188, 0, 35, 0.72);
 }
 .tab2 p,.tab4 p {
-    color: #777;
+    color: #3FFF00;
     font-size: 16px;
     line-height: 45px;
     width: 65%;
@@ -1392,7 +1392,7 @@ img.img-r {
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.3px;
-    color: #777;
+    color: #3FFF00;
 }
 /*-- services-mid --*/
 .services {
@@ -1407,7 +1407,7 @@ img.img-r {
 }
 .agileits_services_grid_left p {
     margin: 1em 0 1em;
-    color: #777;
+    color: #3FFF00;
     line-height: 30px;
     letter-spacing: .5px;
     font-size: 16px;
