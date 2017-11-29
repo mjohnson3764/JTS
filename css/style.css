@@ -830,6 +830,14 @@ a.head-contact-page {
 	-ms-transform: rotatex(180deg);
 	color:#fff;
 }
+.faq li a:hover span.glyphicon {
+	-webkit-transform: rotatex(90deg);
+	transform: rotatex(90deg);
+	-moz-transform: rotatex(90deg);
+	-o-transform: rotatex(90deg);
+	-ms-transform: rotatex(90deg);
+	color:#fff;
+}
 .faq li ul {
     width: 100%;
     border-bottom: 3px solid #204E82;
