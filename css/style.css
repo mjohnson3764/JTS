@@ -49,13 +49,14 @@ label{
     line-height: 5px;
 	position:relative;
 	z-index: 999;
+	width: 33%;
 }
 .w3-logo h1 {
     margin-top: 2px;
     font-weight: bold;
 }
 .w3-logo span.logo {
-    width: "33%";
+    width: 33%;
 }
 .navbar {
 	margin-bottom: 0;
