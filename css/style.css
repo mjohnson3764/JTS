@@ -1376,21 +1376,30 @@ img.img-r {
 	padding:1em;
 }
 .flex-info1{
-	background:rgba(43, 170, 230, 0.89);
+	background:#204E82;
 }
 .flex-info2{
-	background:rgba(43, 170, 230, 0.82);
+	background:#204E82;
 }
 .flex-info3{
-	background:rgba(43, 170, 230, 0.72);
+	background:#204E82;
+}
+.flex-info4{
+	background:#204E82;
+}
+.flex-info5{
+	background:#204E82;
+}
+.flex-info6{
+	background:#204E82;
 }
 .flex-info h4 {
-    color: #242627;
+    color: #fff;
     font-size: 1.4em;
     margin-bottom: 10px;
 }
 .flex-info p {
-    color: #fff;
+    color: #c4c4c4;
     line-height: 1.8em;
     font-size: .94em;
     margin-top: 0.3em;
@@ -1405,7 +1414,7 @@ img.img-r {
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.3px;
-    color: #3FFF00;
+    color: #000;
 }
 /*-- services-mid --*/
 .services {
