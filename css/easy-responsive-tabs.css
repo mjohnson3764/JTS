@@ -70,7 +70,7 @@ h2.resp-accordion {
 
 .resp-tab-active {
   /*border-bottom: none;*/
-  background-color: rgba(32, 78, 130, 0.13);
+  background-color: #979797;
 }
 
 .resp-content-active,
