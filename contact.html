@@ -115,11 +115,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 	</div>
 	<div class="contact-right-w3layouts">
-		<form method="post" name="myemailform" action="form-to-email.php">
+		<form method="post" name="myemailform" action="form-to-email.php" enctype="multipart/form-data">
+			<input type="hidden" name="action" value="submit">
 			<input type="text" name="name" placeholder="YOUR NAME" required="">
 			<input type="email" name="email" placeholder="YOUR EMAIL" required="">
 			<textarea  name="message" placeholder="YOUR MESSAGE" required=""></textarea>
-			<input type="submit" value="Submit">
+			<input type="submit" value="AWAAAY">
 		</form>
 	</div>
 	<div class="clearfix"> </div>
