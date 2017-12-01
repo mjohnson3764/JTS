@@ -885,24 +885,6 @@ a.head-contact-page {
     padding: 20px 0 30px;
 }
 /*-- //services-tabs  --*/
-.services-img-w3-agile{
-	background: url(../images/services.jpg) no-repeat 0px 0px;
-	min-height:376px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
-	-ms-background-size: cover;
-}
-.services-img-agileits{
-	background: url(../images/services2.jpg) no-repeat 0px 0px;
-	min-height:376px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
-	-ms-background-size: cover;
-}
 .services-img-tab-parts{
 	background: url(../images/tab_parts.jpg) no-repeat 0px 0px;
 	min-height:376px;
@@ -931,6 +913,42 @@ a.head-contact-page {
 	-ms-background-size: cover;
 }
 .services-img-tab-field{
+	background: url(../images/tab_field.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-repair1{
+	background: url(../images/tab_repair.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-repair2{
+	background: url(../images/tab_parts.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-repair3{
+	background: url(../images/tab_repair.jpg) no-repeat 0px 0px;
+	min-height:376px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+.services-img-tab-repair4{
 	background: url(../images/tab_field.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
