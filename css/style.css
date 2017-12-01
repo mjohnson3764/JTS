@@ -904,7 +904,7 @@ a.head-contact-page {
 	-ms-background-size: cover;
 }
 .services-img-tab-parts{
-	background: url(../images/tab_parts.jpg) no-repeat 0px 0px;
+	background: url(../images/MA_4x3.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -913,7 +913,7 @@ a.head-contact-page {
 	-ms-background-size: cover;
 }
 .services-img-tab-repair{
-	background: url(../images/tab_repair.jpg) no-repeat 0px 0px;
+	background: url(../images/MC_4x3.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -922,7 +922,7 @@ a.head-contact-page {
 	-ms-background-size: cover;
 }
 .services-img-tab-overhaul{
-	background: url(../images/tab_overhaul.jpg) no-repeat 0px 0px;
+	background: url(../images/ME_4x3.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -931,7 +931,7 @@ a.head-contact-page {
 	-ms-background-size: cover;
 }
 .services-img-tab-field{
-	background: url(../images/tab_field.jpg) no-repeat 0px 0px;
+	background: url(../images/MF_4x3.jpg) no-repeat 0px 0px;
 	min-height:376px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -1434,7 +1434,7 @@ img.img-r {
     font-size: 16px;
 }
 .agileits_services_grid_right{
-	background:url(../images/grid_parts.jpg)no-repeat 0px 0px;
+	background:url(../images/ME_2x1.jpg)no-repeat 0px 0px;
 	background-size:cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
