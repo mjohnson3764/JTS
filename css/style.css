@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6{
 	margin:0;
 	font-family: 'Oswald', sans-serif;
     font-weight: 700;
-}	
+}
 p{
 	margin:0;
 }
@@ -125,7 +125,7 @@ header {
 /*--Effect 7: Bottom Line .ayanHoverEffect_7--*/
 
 .ayanHoverEffect_7 a{
-	padding:0 0 12px;	
+	padding:0 0 12px;
 }
 .ayanHoverEffect_7 a::after {
   background-color: #204E82;
@@ -692,7 +692,7 @@ a.head-contact-page {
 	text-align:center;
 	float: none;
     margin: 0;
-	position:relative;			
+	position:relative;
 }
 .item,
 .item-hover,
@@ -700,34 +700,34 @@ a.head-contact-page {
 .item-img,
 .item-type-move .item-info {
 	width: 255px;
-    height: 245px;		
+    height: 245px;
 }
 
 .item-hover,
 .item-hover .mask,
-.item-img { 
+.item-img {
 	position:absolute;
 	top:0;
-	left:0;			
-}			
+	left:0;
+}
 
-.item-type-move .item-hover {	
+.item-type-move .item-hover {
 	-webkit-transition: all 300ms ease-out;
 	-moz-transition: all 300ms ease-out;
 	-o-transition: all 300ms ease-out;
-	transition: all 300ms ease-out;	
+	transition: all 300ms ease-out;
 	opacity:0;
-	/*cursor:pointer;	*/	
+	/*cursor:pointer;	*/
 	z-index:100;
 	text-decoration: none;
 	background: rgba(0, 0, 0, 0.4);
-}			
+}
 .item-type-move .item-info {
 	z-index:10;
 	color:#ffffff;
 	position:relative;
-	z-index:5;			
-	overflow:hidden;			
+	z-index:5;
+	overflow:hidden;
 }
 
 .item-type-move .item-info .headline,
@@ -737,54 +737,54 @@ a.head-contact-page {
 	-webkit-transition: all 300ms ease-out;
 	-moz-transition: all 300ms ease-out;
 	-o-transition: all 300ms ease-out;
-	transition: all 300ms ease-out;		
+	transition: all 300ms ease-out;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
-	-o-box-sizing: border-box;	
-	padding:0 10px;															
-}				
+	-o-box-sizing: border-box;
+	padding:0 10px;
+}
 
 .item-type-move .item-info .headline {
 	font-size: 20px;
     top: 10px;
-    color: #fff;							
+    color: #fff;
 }
 
 .item-type-move .item-info .date-month {
 	font-size:14px;
 	font-style:italic;
-	bottom:10px;																		
+	bottom:10px;
 }
-				
+
 .item-type-move .item-info .line {
 	 height:1px;
 	 width:85%;
 	 margin:10px auto 0 auto;
-	 background-color:#ffffff;		 
-}				
+	 background-color:#ffffff;
+}
 
 .item-type-move .item-hover .mask {
 	background-color:rgba(0, 0, 0, 0.67);
 	opacity:0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);					
+	filter: alpha(opacity=50);
 	z-index:0;
 }
 
 .item-type-move .item-hover:hover {
 	opacity:1;
-}				
+}
 
 .item-type-move .item-hover:hover .item-info .headline {
 	top:37%;
-}				
+}
 
 .item-type-move .item-hover:hover .item-info .date-month {
 	bottom:31%;
-}	
-.item-img {			
+}
+.item-img {
 	background-color:#7a548f;
-	z-index:0;			
+	z-index:0;
 }
 /*--//about--*/
 /*--services--*/
@@ -1044,7 +1044,7 @@ a.head-contact-page {
 /*-- team --*/
 .team-info{
     position: relative;
-    overflow: hidden;	
+    overflow: hidden;
 }
 .team-info img{
 	width:100%;
@@ -1291,7 +1291,7 @@ p.number-w3 {
     -ms-transform: scale(1.05);
     z-index: 1;
     border: none;
-   
+
 }
 /*--//blogs--*/
 /*-- agile_testimonials --*/
@@ -1503,7 +1503,7 @@ h3.hdg {
 .label {
   font-weight: 300 !important;
   border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1972,14 +1972,14 @@ figure.effect-img .ga-text p {
 }
 .social-w3l ul li.twt .fa{
 	background:#4D9CD8;
-	padding:10px 13px;	
+	padding:10px 13px;
 }
 .social-w3l ul li.ggp {
     background-color:#dc4e41;
 }
 .social-w3l ul li.ggp .fa {
 	background:#D64639;
-	padding:10px;	
+	padding:10px;
 }
 .social-w3l ul li a {
     display: block;
@@ -2060,7 +2060,7 @@ textarea {
     width: 100%;
 	background: #000;
 	color: #fff
-	
+
 }
 .contact-page-w3ls h6 {
     color: #000!important;
@@ -2673,7 +2673,7 @@ i.glyphicon.glyphicon-calendar {
 	bottom: 24px;
 	right: 1%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
     width: 64px;
     height: 64px;
 	border: none;
@@ -2862,7 +2862,7 @@ i.glyphicon.glyphicon-calendar {
 	}
 	p.head-w3-agileits-black {
 		font-size: 14px;
-	}	
+	}
 	p.head-contact-page {
 		font-size: 14px;
 	}
@@ -3402,7 +3402,7 @@ i.glyphicon.glyphicon-calendar {
 	.tab2 h5, .tab4 h5 {
 		font-size: 20px;
 	}
-	
+
 	.w3ls_footer_grid_leftr h4 {
 		font-size: 0.9em;
 		letter-spacing: 2px;
@@ -3427,6 +3427,7 @@ i.glyphicon.glyphicon-calendar {
 	}
 }
 @media(max-width:768px){
+	.w3-logo{width:70%;}
 	h2.resp-accordion:first-child {
 		border-top: none !important;
 	}
@@ -3722,7 +3723,7 @@ i.glyphicon.glyphicon-calendar {
 	p.head-contact-page {
 		font-size: 13px;
 	}
-	
+
 	.copyright-wthree p {
 		letter-spacing: 2px;
 	}
