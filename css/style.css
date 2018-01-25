@@ -809,6 +809,9 @@ a.head-contact-page {
 .faq li:nth-child(1) {
     margin: 0;
 }
+.faq a span.glyphicon:hover{
+	color:#ffffff;
+}
 .faq li a {
     padding: 0.5em 1em;
     width: 100%;
@@ -819,7 +822,7 @@ a.head-contact-page {
     text-decoration: none;
     border-bottom: 1px solid #204E82;
 }
-.faq li a:hover, .faq li a.active {
+.faq li a:hover, .faq li a.active{
     color: #fff;
     background: #204E82;
 }
@@ -830,19 +833,9 @@ a.head-contact-page {
 	color:#204E82;
 }
 .faq li a.active span.glyphicon {
-	-webkit-transform: rotatex(180deg);
-	transform: rotatex(180deg);
-	-moz-transform: rotatex(180deg);
-	-o-transform: rotatex(180deg);
-	-ms-transform: rotatex(180deg);
 	color:#fff;
 }
 .faq:hover li a span.glyphicon {
-	-webkit-transform: rotatex(90deg);
-	transform: rotatex(90deg);
-	-moz-transform: rotatex(90deg);
-	-o-transform: rotatex(90deg);
-	-ms-transform: rotatex(90deg);
 	color:#fff;
 }
 .faq li ul {
