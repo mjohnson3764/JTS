@@ -2043,6 +2043,9 @@ textarea {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
+.contact-right-w3layouts img {
+   width: 50%;
+}
 .map-w3-agileits iframe {
     border: none;
     width: 100%;
