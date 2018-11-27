@@ -619,14 +619,6 @@ h5.title-w3 {
     letter-spacing: 2px;
     word-spacing: 2px;
 }
-h5.title-contact {
-    font-size: 35px;
-    text-align: left;
-    margin-bottom: .5em;
-    color: #000;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-}
 #horizontalTab,.team-grids,.about-head,.contact-info-w3ls,.inst-grids,.test-gr,.content-pro-head1,.agileits_services_grids{
     margin-top: 3.5em!important;
 }
@@ -2051,14 +2043,6 @@ textarea {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.contact-right-w3layouts img {
-   width: 10%;
-}
-.contact-right-w3layouts iframe {
-    border: none;
-    width: 60%;
-    height: 320px
-}
 .map-w3-agileits iframe {
     border: none;
     width: 100%;
@@ -2756,9 +2740,6 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 32px;
 	}
-	h5.title-contact {
-		font-size: 32px;
-	}
 	.navbar-nav {
 		margin: .8em 0 0 14em;
 	}
@@ -2934,10 +2915,6 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 30px;
 	}
-	}
-	h5.title-contact {
-		font-size: 30px;
-	}
 	.services-w3layouts, .reviews, .signup, .gallery, .wthree-main-content, .team, .about, .contact, .contact2, .blogs, .services-inner-agileits, .services, .test, .single, .contact-page-w3ls {
 		padding: 80px 0px;
 	}
@@ -3036,9 +3013,6 @@ i.glyphicon.glyphicon-calendar {
 		padding: 0.5em 0 0 2em;
 	}
 	h5.title-w3 {
-		font-size: 28px;
-	}
-	h5.title-contact {
 		font-size: 28px;
 	}
 	.icon-box {
@@ -3343,9 +3317,6 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 25px;
 	}
-	h5.title-contact {
-		font-size: 25px;
-	}
 	.w3-logo a {
 		font-size: 21px;
 		letter-spacing: 2px;
@@ -3643,9 +3614,6 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 23px;
 	}
-	h5.title-contact {
-		font-size: 23px;
-	}
 	h2.resp-accordion {
 		margin: 0 15em .3em;
 	}
@@ -3760,9 +3728,6 @@ i.glyphicon.glyphicon-calendar {
 		margin: .8em 0 0 0;
 	}
 	h5.title-w3 {
-		font-size: 21px;
-	}
-	h5.title-contact {
 		font-size: 21px;
 	}
 	.owl-theme .owl-controls .owl-page span {
@@ -3987,9 +3952,6 @@ i.glyphicon.glyphicon-calendar {
 	h5.title-w3 {
 		font-size: 20px;
 	}
-	h5.title-contact {
-		font-size: 20px;
-	}
 	#horizontalTab, .team-grids, .about-head, .contact-info-w3ls, .inst-grids, .test-gr, .content-pro-head1, .agileits_services_grids {
 		margin-top: 1.5em!important;
 	}
@@ -4172,9 +4134,6 @@ i.glyphicon.glyphicon-calendar {
 		padding-bottom: 108px!important;
 	}
 	h5.title-w3 {
-		font-size: 18px;
-	}
-	h5.title-contact {
 		font-size: 18px;
 	}
 	.services-img-w3-agile,.services-img-agileits, .services-img-tab-parts, .services-img-tab-repair, .services-img-tab-rotable, .services-img-tab-field {
